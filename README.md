@@ -16,7 +16,7 @@ The environment visualization will be rendered automatically, showing real-time 
 2. Model
 3. Log
 
-![]([/home/vincent/Documents/Master/Semester 3/Research project/github/img/image-20240817104031010.png](https://github.com/Vincent9339/marl-basketball/blob/master/img/image-20240817104031010.png)
+![alt text]([(https://github.com/Vincent9339/marl-basketball/blob/master/img/image-20240817104031010.png])
 
 
 
