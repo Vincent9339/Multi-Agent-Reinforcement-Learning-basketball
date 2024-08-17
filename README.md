@@ -1,0 +1,2 @@
+# Multi-Agent Reinforcement Learning in Custom Environment
+This repository contains an implementation of Multi-Agent Reinforcement Learning (MARL) in a custom-built environment. The environment is designed from scratch using only numpy, ensuring efficiency and flexibility for various MARL experiments. Additionally, the project features a custom visualization tool created with shapely and matplotlib to effectively illustrate the agents' interactions and environment dynamics.
