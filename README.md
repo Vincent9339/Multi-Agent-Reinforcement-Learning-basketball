@@ -16,7 +16,7 @@ The environment visualization will be rendered automatically, showing real-time 
 2. Model
 3. Log
 
-![image-20240817104031010](/home/vincent/.config/Typora/typora-user-images/image-20240817104031010.png)
+![](/home/vincent/Documents/Master/Semester 3/Research project/github/img/image-20240817104031010.png)
 
 
 
