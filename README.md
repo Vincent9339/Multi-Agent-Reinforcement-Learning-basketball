@@ -6,7 +6,7 @@ This repository contains an implementation of Multi-Agent Reinforcement Learning
 
 - **Custom Environment**: Built entirely using **numpy**, providing a lightweight and easily modifiable environment.
 - **Multi-Agent Support**: Capable of handling multiple agents with complex interactions.
-- **Custom Visualization**: Visualize the environment and agent behaviors using **shapely** and **matplotlib** for clear and insightful representations.
+- **Custom Visualization**: Visualize the environment and agent behaviors using **shapely** and **matplotlib[scatter plot]** for clear and insightful representations.
 
 ## Visualization
 
@@ -15,6 +15,10 @@ The environment visualization will be rendered automatically, showing real-time 
 1. Random
 2. Model
 3. Log
+
+![image-20240817104031010](/home/vincent/.config/Typora/typora-user-images/image-20240817104031010.png)
+
+
 
 ## License
 
