@@ -22,5 +22,5 @@ The environment visualization will be rendered automatically, showing real-time 
 
 ## License
 
-This project is licensed under the MIT License.
+No license!
 
