@@ -41,5 +41,5 @@ The environment visualization will be rendered automatically, showing real-time 
 
 ## License
 
-No license!
+Feel free to use, modify, and distribute this work.
 
